@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>8</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>yigui_01_0</Name>
+      <ObjName>yigui_01_0</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>yigui_01_0</ThumbnailPicName>
+      <MaterialName />
+      <_X>8</_X>
+      <_Y>8</_Y>
+      <_Z>8</_Z>
+      <producerName>dd</producerName>
+      <catalog />
+</Config>

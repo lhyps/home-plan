@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>33</ID>
+      <Name>test桌子</Name>
+      <ObjName>test桌子</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>test桌子</ThumbnailPicName>
+      <_X>33</_X>
+      <_Y>33</_Y>
+      <_Z>33</_Z>
+      <producerName>33</producerName>
+      <details>333</details>
+</Config>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>方形户型</Name>
+      <ObjName>方形户型</ObjName>
+      <Type>HOUSE</Type>
+      <ThumbnailPicName>方形户型_thumbnail</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>3</_Y>
+      <_Z>1</_Z>
+      <producerName>厂商</producerName>
+      <details />
+</Config>

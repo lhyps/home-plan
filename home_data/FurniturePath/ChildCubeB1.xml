@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>ChildCubeB1</Name>
+      <ObjName>ChildCubeB1</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>ChildCubeB1_thumbnail</ThumbnailPicName>
+      <MaterialName>单独</MaterialName>
+      <_X>4</_X>
+      <_Y>4</_Y>
+      <_Z>4</_Z>
+      <producerName>ChildCubeB1</producerName>
+      <catalog>leg</catalog>
+</Config>

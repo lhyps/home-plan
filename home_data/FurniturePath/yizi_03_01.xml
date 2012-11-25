@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>111</ID>
+      <isTextureChangeable>True</isTextureChangeable>
+      <isModelChangeable>True</isModelChangeable>
+      <Name>yizi_03_01</Name>
+      <ObjName>yizi_03_01</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>yizi_03_01</ThumbnailPicName>
+      <MaterialName>11</MaterialName>
+      <_X>111</_X>
+      <_Y>111</_Y>
+      <_Z>111</_Z>
+      <producerName>1111</producerName>
+      <details>11</details>
+      <catalog>111</catalog>
+</Config>

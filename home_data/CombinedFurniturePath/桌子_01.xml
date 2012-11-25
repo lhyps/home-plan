@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>999</ID>
+      <Name>桌子_01</Name>
+      <ObjName>桌子_01</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>桌子_01</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>2</_Y>
+      <_Z>2</_Z>
+      <producerName>啊啊啊</producerName>
+      <details>ssss</details>
+      <catalog />
+</Config>

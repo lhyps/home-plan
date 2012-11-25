@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>1</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>al_jz_48</Name>
+      <ObjName>al_jz_48</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>al_jz_48</ThumbnailPicName>
+      <MaterialName>1</MaterialName>
+      <_X>1</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <producerName>1</producerName>
+      <details>1</details>
+      <catalog>1</catalog>
+</Config>

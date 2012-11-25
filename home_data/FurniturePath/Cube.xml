@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>3</Name>
+      <ObjName>Cube</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>Cube_thumbnail</ThumbnailPicName>
+      <_X>1</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <producerName>4</producerName>
+      <details />
+      <catalog />
+</Config>

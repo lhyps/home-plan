@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>singleObject1</Name>
+      <ObjName>singleObject1</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>singleObject1_thumbnail</ThumbnailPicName>
+      <MaterialName />
+      <_X>4</_X>
+      <_Y>4</_Y>
+      <_Z>4</_Z>
+      <producerName>对对对</producerName>
+      <catalog />
+</Config>

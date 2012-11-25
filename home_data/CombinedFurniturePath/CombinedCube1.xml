@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>对对对</Name>
+      <ObjName>CombinedCube1</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>CombinedCube1_thumbnail</ThumbnailPicName>
+      <_X>4</_X>
+      <_Y>4</_Y>
+      <_Z>4</_Z>
+      <producerName>er</producerName>
+      <details />
+      <catalog />
+</Config>

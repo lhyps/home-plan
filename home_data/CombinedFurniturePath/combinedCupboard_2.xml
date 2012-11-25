@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>尺寸</Name>
+      <ObjName>combinedCupboard_2</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>combinedCupboard_2_thumbnail</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>4</_Y>
+      <_Z>2</_Z>
+      <producerName>才</producerName>
+      <details>d1</details>
+      <catalog>comb_cupboard</catalog>
+</Config>

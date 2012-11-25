@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>SceneCupboard_2</Name>
+      <ObjName>SceneCupboard_2</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>SceneCupboard_2_thumbnail</ThumbnailPicName>
+      <_X>4</_X>
+      <_Y>3</_Y>
+      <_Z>4</_Z>
+      <producerName>aaaa</producerName>
+      <details>1</details>
+      <catalog>111</catalog>
+</Config>

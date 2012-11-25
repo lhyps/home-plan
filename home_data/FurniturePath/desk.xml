@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>desk</Name>
+      <ObjName>desk</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>desk</ThumbnailPicName>
+      <MaterialName />
+      <_X>8</_X>
+      <_Y>8</_Y>
+      <_Z>8</_Z>
+      <producerName>厂商</producerName>
+      <catalog>desk</catalog>
+</Config>

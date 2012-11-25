@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>碰撞体</Name>
+      <ObjName>碰撞体</ObjName>
+      <Type>HOUSEELEMENT</Type>
+      <ThumbnailPicName>碰撞体</ThumbnailPicName>
+      <_X>1.077544</_X>
+      <_Y>2.075389</_Y>
+      <_Z>0.2</_Z>
+      <producerName>11</producerName>
+      <details>11</details>
+</Config>

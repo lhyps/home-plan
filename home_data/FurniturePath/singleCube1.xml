@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>singleCube1</Name>
+      <ObjName>singleCube1</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>singleCube1_thumbnail</ThumbnailPicName>
+      <MaterialName />
+      <_X>5</_X>
+      <_Y>5</_Y>
+      <_Z>5</_Z>
+      <producerName>单独</producerName>
+      <catalog />
+</Config>

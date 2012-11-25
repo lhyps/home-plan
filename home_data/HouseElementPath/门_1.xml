@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>门_1</Name>
+      <ObjName>门_1</ObjName>
+      <Type>HOUSEELEMENT</Type>
+      <ThumbnailPicName>门_1_thumbnail</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>2</_Y>
+      <_Z>2</_Z>
+      <producerName>门_1</producerName>
+      <details>点点滴滴</details>
+      <catalog />
+</Config>

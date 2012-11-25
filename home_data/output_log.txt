@@ -1,0 +1,3679 @@
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1119]
+    Renderer: AMD Radeon HD 6480G
+    Vendor:   ATI
+    VRAM:     1499 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+<I> Initializing (RawInput).
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Non platform assembly: data-02F6BA88 (this message is harmless)
+Non platform assembly: data-08430048 (this message is harmless)
+Non platform assembly: data-08497050 (this message is harmless)
+Non platform assembly: data-02FD3F48 (this message is harmless)
+Non platform assembly: data-02FE16D8 (this message is harmless)
+Non platform assembly: data-02FE6AE0 (this message is harmless)
+Platform assembly: C:\Users\aa\Desktop\fullScreen(local0221)\home_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\aa\Desktop\fullScreen(local0221)\home_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\aa\Desktop\fullScreen(local0221)\home_Data\Managed\System.Xml.dll (this message is harmless)
+Unsupported: VertexLit
+Shader 'Hidden/TerrainEngine/Splatmap/Lightmap-FirstPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Lightmap-BaseMap' not found
+Unsupported: Hidden/TerrainEngine/BillboardTree
+predinedSceneNamesTotal =PredefinedSceneTest1,PredefinedSceneTest2,PredefinedSceneTest3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Web ctor
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Web:.ctor()
+Manager:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ModelPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+UpdateConfigFile 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+read localConfigFileURL
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Platform assembly: C:\Users\aa\Desktop\fullScreen(local0221)\home_Data\Managed\System.dll (this message is harmless)
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+xml.EndParse()
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+localVersion = 2.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+sWebVersion =2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+EnterPredefinedScene
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:EnterPredefinedScene()
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:SendMessage(String)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\PredefinedSceneTest1.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  预定义方案缩略图!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =桌子_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =桌子_02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =Cubesss
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\zhuozi_02_.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\zhuozi_020.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =zhuozi_02_
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =zhuozi_020
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\PredefinedSceneTest2.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  预定义方案缩略图!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\PredefinedSceneTest3.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  预定义方案缩略图!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator6:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DisablePreviousScene disable当前选中的户型
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:DisablePreviousScene()
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+PredefinedScenePath URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\PredefinedScenePath\PredefinedSceneTest2.unity3d
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+(left:492.00, top:379.00, width:40.00, height:10.00)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_01_.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_010.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_011.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_012.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_013.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chuang_014.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\zhuozi_01_.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\zhuozi_010.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+predinedScene.name = PredefinedSceneTest2(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+m_previousHouse = m_currentHouse
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 预定义场景!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_01_
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_010
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_011
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_012
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_013
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chuang_014
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =zhuozi_01_
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =zhuozi_010
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+EnterCustomrizedScene disable当前选中的户型
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:CustomrizedScene()
+MyGUI:EnterCostomrizedScene()
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String)
+TopTools:EnterCostomrizedScene()
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:SendMessage(String)
+TopTools:DrawTopBar()
+TopTools:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+m_previousHouse.name = 户型_L2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DisablePreviousScene disable当前选中的户型
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:DisablePreviousScene()
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+PredefinedScenePath URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\PredefinedScenePath\PredefinedSceneTest1.unity3d
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+(left:492.00, top:379.00, width:40.00, height:10.00)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_01.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_03.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_04.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_05.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_07.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_09.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_10.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_11.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_13.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_14.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_15.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_20.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_21.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_23.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_24.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_26.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_57.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_58.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_60.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_61.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_62.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_63.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_64.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_65.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_66.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_67.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_68.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_69.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_70.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_71.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_72.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_73.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_74.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_75.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_76.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\anli_jz_77.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+predinedScene.name = PredefinedSceneTest1(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+m_previousHouse = m_currentHouse
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 预定义场景!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_03
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_04
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_05
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_07
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_09
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_10
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_11
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_13
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_14
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_15
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_21
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_23
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_24
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_26
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_57
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_58
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_61
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_62
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_63
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_64
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_65
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_66
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_67
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_68
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_69
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_70
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_71
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_72
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_73
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_74
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_75
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_76
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_jz_77
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+UpdateConfigFile 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+read localConfigFileURL
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+xml.EndParse()
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+localVersion = 2.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+sWebVersion =2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =窗
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 户型元素!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadHouseElement>c__Iterator3:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =门
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =碰撞体
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 户型元素!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadHouseElement>c__Iterator3:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =家具碰撞体
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 户型元素!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadHouseElement>c__Iterator3:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =衣柜_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =沙发_02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =音箱_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =茶几_01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =二门衣柜Y-800A
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =桌子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =anli_dry_1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =柜子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+bundleDownloadedDictionary not contain
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =沙发0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 组合家具!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadCombinedFurniture>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+download thumbnail exception redownload
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Add
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(ItemNode node)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:ProcessThumnailBar()
+ThumbnailPanel:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =椅子0221
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator7:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\shafa_02_0.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\shafa_02_1.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:InstanciateControl()
+Manager:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =shafa_02_0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =shafa_02_1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+final cameraLookAtControlIsActive = False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:CameraLookAtControl()
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+UpdateConfigFile 
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+read localConfigFileURL
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+xml.EndParse()
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+localVersion = 2.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+sWebVersion =2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetConfigFileVersion
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+XML:GetConfigFileVersion()
+<UpdateConfigFile>c__IteratorD:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DisablePreviousScene disable当前选中的户型
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:DisablePreviousScene()
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+PredefinedScenePath URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\PredefinedScenePath\PredefinedSceneTest3.unity3d
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MyGUI:OnGUI()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+(left:492.00, top:379.00, width:40.00, height:10.00)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chaji_01_0.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\chaji_01_1.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\yinxiang_0.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic(string objName)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+DownloadThumbnailPic URL = C:/Users/aa/Desktop/fullScreen(local0221)/home_Data\thumbnailPicURL\yinxiang_1.png
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DownloadFurnitureThumbnail>c__Iterator9:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+Manager:DownloadCombinedFurnitureChildrenThumbnail(CombinedFurniture)
+Manager:DownloadSceneChildrenThumbnail(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+predinedScene.name = PredefinedSceneTest3(Clone)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+m_previousHouse = m_currentHouse
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:AddPredefinedScene(GameObject)
+MyGUI:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded 预定义场景!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadScene>c__Iterator5:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chaji_01_0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =chaji_01_1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =yinxiang_0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+finished Downloaded  缩略图! =yinxiang_1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<DownloadThumbnailPic>c__Iterator8:MoveNext()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+final cameraLookAtControlIsActive = False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:CameraLookAtControl()
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+final cameraLookAtControlIsActive = False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Manager:CameraLookAtControl()
+Manager:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+

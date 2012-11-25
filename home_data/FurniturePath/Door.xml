@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>12</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>Door</Name>
+      <ObjName>Door</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>Door</ThumbnailPicName>
+      <MaterialName>11</MaterialName>
+      <_X>2</_X>
+      <_Y>2</_Y>
+      <_Z>2</_Z>
+      <producerName>11</producerName>
+      <catalog>2</catalog>
+</Config>

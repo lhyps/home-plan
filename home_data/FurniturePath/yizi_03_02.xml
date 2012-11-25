@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>222</ID>
+      <isTextureChangeable>True</isTextureChangeable>
+      <isModelChangeable>True</isModelChangeable>
+      <Name>yizi_03_02</Name>
+      <ObjName>yizi_03_02</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>yizi_03_02</ThumbnailPicName>
+      <MaterialName>222</MaterialName>
+      <_X>22</_X>
+      <_Y>22</_Y>
+      <_Z>22</_Z>
+      <producerName>2222222</producerName>
+      <details>222</details>
+      <catalog>222</catalog>
+</Config>

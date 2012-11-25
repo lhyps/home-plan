@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>zhuozi_01_01</Name>
+      <ObjName>zhuozi_01_01</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>zhuozi_01_01_thumbnail</ThumbnailPicName>
+      <MaterialName />
+      <_X>22</_X>
+      <_Y>22</_Y>
+      <_Z>33</_Z>
+      <producerName>单独</producerName>
+      <catalog />
+</Config>

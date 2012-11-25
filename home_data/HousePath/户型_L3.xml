@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>户型_L3</Name>
+      <ObjName>户型_L3</ObjName>
+      <Type>HOUSE</Type>
+      <ThumbnailPicName>户型_L3</ThumbnailPicName>
+      <_X>1</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <isChangeable>True</isChangeable>
+      <producerName>1</producerName>
+      <details>1</details>
+</Config>

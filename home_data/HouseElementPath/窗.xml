@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>窗</Name>
+      <ObjName>窗</ObjName>
+      <Type>HOUSEELEMENT</Type>
+      <ThumbnailPicName>窗</ThumbnailPicName>
+      <_X>1.5</_X>
+      <_Y>1</_Y>
+      <_Z>1.5</_Z>
+      <producerName>1</producerName>
+      <details>11</details>
+</Config>

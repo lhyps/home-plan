@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>11</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>家具碰撞体Cube</Name>
+      <ObjName>家具碰撞体Cube</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>家具碰撞体Cube</ThumbnailPicName>
+      <MaterialName>1</MaterialName>
+      <_X>1</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <producerName>1</producerName>
+      <details>1</details>
+      <catalog>1</catalog>
+</Config>

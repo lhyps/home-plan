@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID />
+      <Name>衣柜_01</Name>
+      <ObjName>衣柜_01</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>衣柜_01</ThumbnailPicName>
+      <_X>8</_X>
+      <_Y>8</_Y>
+      <_Z>8</_Z>
+      <producerName>000</producerName>
+      <details>00</details>
+      <catalog />
+</Config>

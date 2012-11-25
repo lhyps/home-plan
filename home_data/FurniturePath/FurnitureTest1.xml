@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>测试家具</Name>
+      <ObjName>FurnitureTest1</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>FurnitureTest1_thumbnail</ThumbnailPicName>
+      <MaterialName>桦木</MaterialName>
+      <_X>5</_X>
+      <_Y>6</_Y>
+      <_Z>3</_Z>
+      <producerName>厂商名称</producerName>
+      <details>测试用的单一家具</details>
+      <catalog>cupboard</catalog>
+</Config>

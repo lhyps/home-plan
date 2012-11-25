@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>门</Name>
+      <ObjName>门</ObjName>
+      <Type>HOUSEELEMENT</Type>
+      <ThumbnailPicName>门</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <producerName>1</producerName>
+      <details>11</details>
+</Config>

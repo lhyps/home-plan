@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>1</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>yigui_01_1</Name>
+      <ObjName>yigui_01_1</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>yigui_01_1</ThumbnailPicName>
+      <MaterialName>aa</MaterialName>
+      <_X>7</_X>
+      <_Y>7</_Y>
+      <_Z>7</_Z>
+      <producerName>222</producerName>
+      <catalog>77</catalog>
+</Config>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>方形户型</Name>
+      <ObjName>rectHouse_1</ObjName>
+      <Type>HOUSE</Type>
+      <ThumbnailPicName>rectHouseTest_thumbnail</ThumbnailPicName>
+      <_X>12</_X>
+      <_Y>16</_Y>
+      <_Z>23</_Z>
+      <producerName>fac</producerName>
+      <details>fffff</details>
+</Config>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>SceneChildCubeA2</Name>
+      <ObjName>SceneChildCubeA2</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>SceneChildCubeA2_thumbnail</ThumbnailPicName>
+      <_X>11</_X>
+      <_Y>11</_Y>
+      <_Z>11</_Z>
+      <producerName>fake</producerName>
+      <catalog>111</catalog>
+</Config>

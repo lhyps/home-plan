@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>zhuomian_01</Name>
+      <ObjName>zhuomian_01</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>zhuomian_01_thumbnail</ThumbnailPicName>
+      <MaterialName>aa</MaterialName>
+      <_X>3</_X>
+      <_Y>3</_Y>
+      <_Z>3</_Z>
+      <producerName>zhuomian_01</producerName>
+      <catalog />
+</Config>

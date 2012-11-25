@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>SceneChildCubeB2</Name>
+      <ObjName>SceneChildCubeB2</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>SceneChildCubeB2_thumbnail</ThumbnailPicName>
+      <_X>5</_X>
+      <_Y>5</_Y>
+      <_Z>5</_Z>
+      <producerName>faee</producerName>
+      <catalog>gh</catalog>
+</Config>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <Version>2.2</Version>
+    <TextureURL>texture</TextureURL>
+    <ThumbnailPicURL>ThumbnailPic</ThumbnailPicURL>
+    <FurnitureURL>furniture</FurnitureURL>
+    <HouseURL>house</HouseURL>
+    <HouseElementURL>houseElement</HouseElementURL>
+    <CombinedFurnitureURL>combinedFurniture</CombinedFurnitureURL>
+    <SceneURL>scene</SceneURL>
+    <Data>
+        <Item type="group" name="户型">
+            <GroupItem type="House" name="户型_F" objName="户型_F"></GroupItem>
+            <GroupItem type="House" name="户型_L1" objName="户型_L1"></GroupItem>
+            <GroupItem type="House" name="户型_L2" objName="户型_L2"></GroupItem>
+            <GroupItem type="House" name="户型_L3" objName="户型_L3"></GroupItem>
+            <GroupItem type="House" name="户型_L4" objName="户型_L4"></GroupItem>
+        </Item>
+
+        <Item type="group" name="户型元素">
+            <GroupItem type="HouseElement" name="窗" objName="窗"></GroupItem>
+            <GroupItem type="HouseElement" name="门" objName="门"></GroupItem>
+            <GroupItem type="HouseElement" name="碰撞体" objName="碰撞体"></GroupItem>
+	    <GroupItem type="CombinedFurniture" name="家具碰撞体" objName="家具碰撞体"></GroupItem>
+        </Item>
+
+        <Item type="folder" name="厨房">
+
+            <Item type="group" name='"法克图"橱柜系列1'>
+                <GroupItem type="CombinedFurniture" name="桌子_01" objName="桌子_01" catalog="桌子"></GroupItem>    
+                <GroupItem type="CombinedFurniture" name="桌子_02" objName="桌子_02" catalog="桌子"></GroupItem>    
+		<GroupItem type="CombinedFurniture" name="椅子_01" objName="椅子_01" catalog="椅子"></GroupItem> 
+		<GroupItem type="CombinedFurniture" name="Cubesss" objName="Cubesss" catalog="椅子"></GroupItem>
+            </Item>
+            <Item type="group" name='"法克图"橱柜系列2'>
+                <GroupItem type="CombinedFurniture" name="衣柜_01" objName="衣柜_01" catalog="衣柜"></GroupItem>   
+		<GroupItem type="CombinedFurniture" name="沙发_02" objName="沙发_02" catalog="沙发"></GroupItem> 
+                <GroupItem type="CombinedFurniture" name="音箱_01" objName="音箱_01" catalog="音箱"></GroupItem>  
+                <GroupItem type="CombinedFurniture" name="茶几_01" objName="茶几_01" catalog="茶几"></GroupItem>
+		<GroupItem type="CombinedFurniture" name="二门衣柜Y-800A" objName="二门衣柜Y-800A" catalog="衣柜"></GroupItem>	
+            </Item>
+	    <Item type="group" name='家具样例6.13'>
+		<GroupItem type="CombinedFurniture" name="椅子0221" objName="椅子0221" catalog="anli_dry_1"></GroupItem>
+		<GroupItem type="CombinedFurniture" name="桌子0221" objName="桌子0221" catalog="anli_dry_1"></GroupItem>
+                <GroupItem type="CombinedFurniture" name="anli_dry_1" objName="anli_dry_1" catalog="anli_dry_1"></GroupItem>
+		<GroupItem type="CombinedFurniture" name="柜子0221" objName="柜子0221" catalog="anli_dry_1"></GroupItem>
+		<GroupItem type="CombinedFurniture" name="沙发0221" objName="沙发0221" catalog="anli_dry_1"></GroupItem>            
+</Item>
+        </Item>      
+    </Data>
+</Config>
+
+

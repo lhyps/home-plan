@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>3</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>False</isModelChangeable>
+      <Name>柜体内部</Name>
+      <ObjName>柜体内部</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>柜体内部</ThumbnailPicName>
+      <MaterialName />
+      <_X>3</_X>
+      <_Y>3</_Y>
+      <_Z>3</_Z>
+      <producerName>3</producerName>
+      <details>33</details>
+      <catalog>3</catalog>
+</Config>

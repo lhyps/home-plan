@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>11</ID>
+      <Name>家具碰撞体</Name>
+      <ObjName>家具碰撞体</ObjName>
+      <Type>COMBINEDFURNITURE</Type>
+      <ThumbnailPicName>家具碰撞体</ThumbnailPicName>
+      <_X>1</_X>
+      <_Y>1</_Y>
+      <_Z>1</_Z>
+      <producerName>11</producerName>
+      <details>家具碰撞体</details>
+</Config>

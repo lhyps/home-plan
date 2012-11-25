@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <Name>凤飞飞</Name>
+      <ObjName>house</ObjName>
+      <Type>HOUSE</Type>
+      <ThumbnailPicName>house_thumbnail</ThumbnailPicName>
+      <_X>2</_X>
+      <_Y>3</_Y>
+      <_Z>1</_Z>
+      <producerName>11</producerName>
+      <details />
+</Config>

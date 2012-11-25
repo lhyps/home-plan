@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>0002</ID>
+      <isTextureChangeable>True</isTextureChangeable>
+      <isModelChangeable>True</isModelChangeable>
+      <Name>桌面</Name>
+      <ObjName>桌面</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>桌面</ThumbnailPicName>
+      <MaterialName />
+      <_X>3</_X>
+      <_Y>3</_Y>
+      <_Z>3</_Z>
+      <producerName>aa</producerName>
+      <catalog>桌面</catalog>
+</Config>

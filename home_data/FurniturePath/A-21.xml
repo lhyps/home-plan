@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+      <ID>3</ID>
+      <isTextureChangeable>False</isTextureChangeable>
+      <isModelChangeable>True</isModelChangeable>
+      <Name>A-21</Name>
+      <ObjName>A-21</ObjName>
+      <Type>FURNITURE</Type>
+      <ThumbnailPicName>A-21</ThumbnailPicName>
+      <MaterialName>红色</MaterialName>
+      <_X>3</_X>
+      <_Y>3</_Y>
+      <_Z>3</_Z>
+      <producerName>3</producerName>
+      <details>可更换柜门</details>
+      <catalog>柜门</catalog>
+</Config>
